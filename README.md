@@ -6,7 +6,7 @@ Bem-vindo(a) ao meu perfil! Aqui você encontrará projetos que combinam **ciên
 -  **Curiosa e autodidata:** Estou sempre explorando novas tecnologias e formas de resolver problemas com eficiência.
 -  **Orientada a resultados:** Estruturo meu trabalho para entregar soluções funcionais, escaláveis e com impacto real.
 -  **Colaborativa:** Valorizo o trabalho em equipe, a troca de conhecimento e a construção conjunta de soluções.
--  **Eterna aprendiz:** Atualmente me aprofundando em Desenvolvimento Full Stack com Python, engenharia de dados e deep learning com foco em projetos aplicados**.
+-  **Eterna aprendiz:** Atualmente me aprofundando em Desenvolvimento Full Stack com Python, engenharia de dados e deep learning com foco em projetos aplicados.
 
 
 ## Habilidades
