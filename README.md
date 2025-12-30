@@ -1,12 +1,12 @@
 # Olá, eu sou a Elisiane Quadros! 👩‍💻 Bem-vindo(a) ao meu perfil!
 
-Sou desenvolvedora Python com foco em soluções baseadas em dados. Aqui, você encontrará projetos que exploram **ciência de dados**, **machine learning** e **aplicações web**, com ênfase em:
+Sou **Cientista de Dados Júnior**, com formação em Análise e Desenvolvimento de Sistemas e foco em Python, análise de dados, Machine Learning e IA Generativa. Aqui você encontrará projetos que exploram o ciclo completo de ciência de dados, desde a coleta e preparação dos dados até a modelagem e disponibilização de soluções.
 
 - **Análise e Visualização de Dados** — Transformação de dados brutos em insights acionáveis.
-- **Modelagem Preditiva (Machine Learning)** — Criação e otimização de modelos para previsão e classificação.
-- **Processamento de Linguagem Natural (NLP)** — Soluções que interagem e compreendem a linguagem humana.
-- **Engenharia de Dados e Automação** — Construção de pipelines e automação de processos orientados a dados.
-- **Desenvolvimento Web** — Aplicações robustas com foco em usabilidade e integração de sistemas.
+- **Machine Learning (Modelagem Preditiva)** — Criação e otimização de modelos para previsão e classificaçãoConstrução e avaliação de modelos de classificação e regressão.
+- **Processamento de Linguagem Natural (NLP)** — Análise de sentimentos, classificação de texto e aplicações com LLMs..
+- **Engenharia de Dados e Automação** — Limpeza, transformação e pipelines de dados orientados a análise.
+- **APIs e Aplicações Orientadas a Dados** — Integração de modelos via FastAPI e Flask.
 
 
 ##  Tecnologias que utilizo:
@@ -26,18 +26,18 @@ Sou desenvolvedora Python com foco em soluções baseadas em dados. Aqui, você 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
+**Bancos de Dados:**  
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
 **Frameworks Web & Backend:**  
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-**Bancos de Dados:**  
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Ferramentas & Outros:**  
 
