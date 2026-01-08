@@ -1,12 +1,10 @@
 # Olá, eu sou a Elisiane Quadros! 👩‍💻 Bem-vindo(a) ao meu perfil!
 
-Sou **Cientista de Dados Júnior**, com formação em Análise e Desenvolvimento de Sistemas e foco em Python, análise de dados, Machine Learning e IA Generativa. Aqui você encontrará projetos que exploram o ciclo completo de ciência de dados, desde a coleta e preparação dos dados até a modelagem e disponibilização de soluções.
+Sou **AI Engineer Jr** com formação em **Análise e Desenvolvimento de Sistemas** e foco em **Python, Machine Learning e IA Generativa**. Aqui você encontrará projetos que exploram o ciclo completo de ciência de dados e engenharia de IA: da coleta e preparação de dados até a modelagem, integração e disponibilização de soluções via APIs e aplicações.
 
-- **Análise e Visualização de Dados** — Transformação de dados brutos em insights acionáveis.
-- **Machine Learning (Modelagem Preditiva)** — Criação e otimização de modelos para previsão e classificaçãoConstrução e avaliação de modelos de classificação e regressão.
-- **Processamento de Linguagem Natural (NLP)** — Análise de sentimentos, classificação de texto e aplicações com LLMs..
-- **Engenharia de Dados e Automação** — Limpeza, transformação e pipelines de dados orientados a análise.
-- **APIs e Aplicações Orientadas a Dados** — Integração de modelos via FastAPI e Flask.
+Durante minha trajetória, desenvolvi projetos práticos envolvendo **Machine Learning, NLP e LLMs**, integrando dados e modelos em soluções funcionais. Também atuei por 2 anos como **instrutora de programação**, orientando mais de 100 alunos em projetos de ML, Deep Learning e NLP, o que me deu **visão end-to-end de sistemas baseados em dados** e **facilidade para comunicar resultados técnicos de forma clara**.
+
+Atualmente, aprofundo meus conhecimentos em IA Generativa e Machine Learning por meio da **pós-graduação em IA com ênfase em ML** e da **especialização em Python Fullstack**, consolidando minha base para transformar modelos em aplicações reais e escaláveis. 
 
 
 ##  Tecnologias que utilizo:
@@ -43,6 +41,7 @@ Sou **Cientista de Dados Júnior**, com formação em Análise e Desenvolvimento
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 **LinkedIn:** [linkedin.com/in/elisiane-quadros](https://linkedin.com/in/elisiane-quadros)  
 **E-mail:** [elisiane.quadros@hotmail.com](mailto:elisiane.quadros@hotmail.com)
