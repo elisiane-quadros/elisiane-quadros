@@ -1,10 +1,15 @@
 # Olá, eu sou a Elisiane Quadros! 👩‍💻 Bem-vindo(a) ao meu perfil!
 
-Sou **AI Engineer Jr** com formação em **Análise e Desenvolvimento de Sistemas** e foco em **Python, Machine Learning e IA Generativa**. Aqui você encontrará projetos que exploram o ciclo completo de ciência de dados e engenharia de IA: da coleta e preparação de dados até a modelagem, integração e disponibilização de soluções via APIs e aplicações.
+Sou **Analista de Dados**, graduada em **Análise e Desenvolvimento de Sistemas** e pós-graduada em **Inteligência Artificial com ênfase em Machine Learning**, com forte base em **Python, SQL, Data Science e IA aplicada**.
 
-Durante minha trajetória, desenvolvi projetos práticos envolvendo **Machine Learning, NLP e LLMs**, integrando dados e modelos em soluções funcionais. Também atuei por 2 anos como **instrutora de programação**, orientando mais de 100 alunos em projetos de ML, Deep Learning e NLP, o que me deu **visão end-to-end de sistemas baseados em dados** e **facilidade para comunicar resultados técnicos de forma clara**.
+Aqui você encontrará projetos que exploram o **ciclo completo de soluções baseadas em dados**: desde a coleta, limpeza e análise de dados até a modelagem em Machine Learning e a integração de modelos em aplicações reais.
 
-Atualmente, aprofundo meus conhecimentos em IA Generativa e Machine Learning por meio da **pós-graduação em IA com ênfase em ML** e da **especialização em Python Fullstack**, consolidando minha base para transformar modelos em aplicações reais e escaláveis. 
+Ao longo da minha trajetória, desenvolvi projetos práticos envolvendo **análise de dados, Machine Learning, NLP e LLMs**, aplicando técnicas de visualização, modelagem preditiva e automação com Python.
+
+Atuei por mais de 2 anos como **instrutora técnica**, orientando mais de 100 alunos na construção de projetos de Ciência de Dados e IA, o que fortaleceu minha **visão end-to-end de sistemas baseados em dados** e minha capacidade de **comunicar resultados técnicos de forma clara e objetiva**.
+
+
+Atualmente, sigo aprofundando meus conhecimentos em **Machine Learning e IA Generativa**, além de fortalecer minha base em **desenvolvimento Python**, com foco em transformar análises e modelos em **soluções práticas e escaláveis**.
 
 
 ##  Tecnologias que utilizo:
