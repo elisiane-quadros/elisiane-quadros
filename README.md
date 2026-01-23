@@ -1,15 +1,20 @@
-# Olá, eu sou a Elisiane Quadros! 👩‍💻 Bem-vindo(a) ao meu perfil!
+# Olá, eu sou a Elisiane Quadros 👋  
+### AI Engineer Júnior | Machine Learning & IA Generativa | Python
 
-Sou **Analista de Dados**, graduada em **Análise e Desenvolvimento de Sistemas** e pós-graduada em **Inteligência Artificial com ênfase em Machine Learning**, com forte base em **Python, SQL, Data Science e IA aplicada**.
+Sou **AI Engineer Júnior**, formada em **Análise e Desenvolvimento de Sistemas** e **pós-graduada em Inteligência Artificial com ênfase em Machine Learning**, com foco no desenvolvimento de **projetos práticos em IA aplicada**.
 
-Aqui você encontrará projetos que exploram o **ciclo completo de soluções baseadas em dados**: desde a coleta, limpeza e análise de dados até a modelagem em Machine Learning e a integração de modelos em aplicações reais.
+Aqui você encontrará projetos que exploram o **desenvolvimento end-to-end de soluções de IA**, incluindo:
+- Preparação e engenharia de dados  
+- Treinamento e avaliação de modelos de Machine Learning  
+- Aplicações com **NLP, IA Generativa e LLMs**  
+- Integração de modelos em **APIs e aplicações backend/frontend**
 
-Ao longo da minha trajetória, desenvolvi projetos práticos envolvendo **análise de dados, Machine Learning, NLP e LLMs**, aplicando técnicas de visualização, modelagem preditiva e automação com Python.
+Ao longo da minha trajetória, desenvolvi projetos práticos envolvendo **Machine Learning, NLP, LLMs e IA Generativa**, sempre com foco em **arquiteturas funcionais, clareza de código e aprendizado contínuo**.
 
-Atuei por mais de 2 anos como **instrutora técnica**, orientando mais de 100 alunos na construção de projetos de Ciência de Dados e IA, o que fortaleceu minha **visão end-to-end de sistemas baseados em dados** e minha capacidade de **comunicar resultados técnicos de forma clara e objetiva**.
+Atuei por mais de **2 anos como instrutora técnica**, orientando mais de **100 alunos** na construção de projetos de **Data Science e Inteligência Artificial**, o que fortaleceu minha visão **end-to-end de sistemas baseados em dados** e minha capacidade de **comunicar soluções técnicas de forma clara e objetiva**.
 
+Atualmente, sigo aprofundando meus estudos em **Machine Learning, IA Generativa e desenvolvimento Python**, com foco em transformar modelos e experimentos em **aplicações práticas e escaláveis**.
 
-Atualmente, sigo aprofundando meus conhecimentos em **Machine Learning e IA Generativa**, além de fortalecer minha base em **desenvolvimento Python**, com foco em transformar análises e modelos em **soluções práticas e escaláveis**.
 
 
 ##  Tecnologias que utilizo:
@@ -20,14 +25,18 @@ Atualmente, sigo aprofundando meus conhecimentos em **Machine Learning e IA Gene
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Bibliotecas & Frameworks (Data Science/ML):**  
+**Machine Learning & IA:** 
 
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
+![IA%20Generativa](https://img.shields.io/badge/IA%20Generativa-8E24AA?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 **Bancos de Dados:**  
 
