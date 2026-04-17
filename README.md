@@ -1,19 +1,19 @@
 # Olá, eu sou a Elisiane Quadros 👋  
-### AI Engineer Júnior | Machine Learning & IA Generativa | Python
+### Analista de Sistemas | Automação de Processos e APIs | Python, Dados e IA
 
-Sou **AI Engineer Júnior**, formada em **Análise e Desenvolvimento de Sistemas** e **pós-graduada em Inteligência Artificial com ênfase em Machine Learning**, com foco no desenvolvimento de **projetos práticos em IA aplicada**.
+Sou profissional formada em Análise e Desenvolvimento de Sistemas, com pós-graduação em Inteligência Artificial e Machine Learning, atuando no desenvolvimento de soluções que integram tecnologia, dados e processos de negócio.
 
-Aqui você encontrará projetos que exploram o **desenvolvimento end-to-end de soluções de IA**, incluindo:
-- Preparação e engenharia de dados  
-- Treinamento e avaliação de modelos de Machine Learning  
-- Aplicações com **NLP, IA Generativa e LLMs**  
-- Integração de modelos em **APIs e aplicações backend/frontend**
+Aqui no GitHub você encontrará projetos focados em aplicações práticas com Python, incluindo:
+- Automação de processos e scripts com Python  
+- Desenvolvimento de APIs com FastAPI e Flask 
+- Aplicações com análise de dados e manipulação de informações  
+- Exploração de conceitos de IA aplicada em soluções funcionais
 
-Ao longo da minha trajetória, desenvolvi projetos práticos envolvendo **Machine Learning, NLP, LLMs e IA Generativa**, sempre com foco em **arquiteturas funcionais, clareza de código e aprendizado contínuo**.
+Ao longo da minha trajetória, desenvolvi projetos que me permitiram fortalecer minha capacidade de estruturar soluções técnicas, organizar lógica de sistemas e transformar requisitos em implementações funcionais.
 
-Atuei por mais de **2 anos como instrutora técnica**, orientando mais de **100 alunos** na construção de projetos de **Data Science e Inteligência Artificial**, o que fortaleceu minha visão **end-to-end de sistemas baseados em dados** e minha capacidade de **comunicar soluções técnicas de forma clara e objetiva**.
+Também atuei por mais de 2 anos como instrutora de programação, orientando mais de 100 alunos em projetos com Python, dados e introdução à inteligência artificial, o que fortaleceu minha visão de arquitetura de soluções e minha comunicação técnica.
 
-Atualmente, sigo aprofundando meus estudos em **Machine Learning, IA Generativa e desenvolvimento Python**, com foco em transformar modelos e experimentos em **aplicações práticas e escaláveis**.
+Atualmente, continuo aprofundando meus estudos em Python, automação, dados e aplicações de IA, com foco em soluções práticas e integradas a sistemas reais.
 
 
 
