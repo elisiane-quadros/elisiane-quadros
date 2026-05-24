@@ -1,23 +1,15 @@
 # Olá, eu sou a Elisiane Quadros 👋  
-### Analista de Sistemas | Automação de Processos e APIs | Python, Dados e IA
+### Desenvolvedora Python | IA, Machine Learning, Automação e Dados
 
-Sou profissional formada em Análise e Desenvolvimento de Sistemas, com pós-graduação em Inteligência Artificial e Machine Learning, atuando no desenvolvimento de soluções que integram tecnologia, dados e processos de negócio.
+Sou Desenvolvedora Python, graduada em Análise e Desenvolvimento de Sistemas e pós-graduada em Inteligência Artificial e Machine Learning. Desenvolvo soluções que integram automação, dados, APIs e inteligência artificial para apoiar processos, otimizar operações e transformar necessidades de negócio em soluções práticas.
 
-Aqui no GitHub você encontrará projetos focados em aplicações práticas com Python, incluindo:
-- Automação de processos e scripts com Python  
-- Desenvolvimento de APIs com FastAPI e Flask 
-- Aplicações com análise de dados e manipulação de informações  
-- Exploração de conceitos de IA aplicada em soluções funcionais
+Ao longo da minha trajetória, atuei no desenvolvimento de projetos envolvendo automação, análise de dados, machine learning, visão computacional e integração de sistemas. Também fui instrutora técnica e mentora de projetos por mais de dois anos, orientando mais de 100 alunos na construção de aplicações utilizando Python, dados e inteligência artificial, experiência que fortaleceu minha capacidade de traduzir conceitos complexos em soluções funcionais.
 
-Ao longo da minha trajetória, desenvolvi projetos que me permitiram fortalecer minha capacidade de estruturar soluções técnicas, organizar lógica de sistemas e transformar requisitos em implementações funcionais.
-
-Também atuei por mais de 2 anos como instrutora de programação, orientando mais de 100 alunos em projetos com Python, dados e introdução à inteligência artificial, o que fortaleceu minha visão de arquitetura de soluções e minha comunicação técnica.
-
-Atualmente, continuo aprofundando meus estudos em Python, automação, dados e aplicações de IA, com foco em soluções práticas e integradas a sistemas reais.
+Atualmente, continuo aprofundando meus conhecimentos em Python, análise de dados e aplicações de IA, com foco na construção de soluções escaláveis e orientadas a resultados.
 
 
 
-##  Tecnologias que utilizo:
+##  Tecnologias:
 
 **Linguagens:**
   
@@ -50,8 +42,9 @@ Atualmente, continuo aprofundando meus estudos em Python, automação, dados e a
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Ferramentas & Outros:**  
+**Ferramentas:**  
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
