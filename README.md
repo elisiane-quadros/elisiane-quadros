@@ -1,13 +1,50 @@
 # Olá, eu sou a Elisiane Quadros 👋  
-### Desenvolvedora Python | IA, Machine Learning, Automação e Dados
+### Desenvolvedora Full Stack Python | Inteligência Artificial Aplicada | Engenharia de Soluções
 
-Sou Desenvolvedora Python, graduada em Análise e Desenvolvimento de Sistemas e pós-graduada em Inteligência Artificial e Machine Learning. Desenvolvo soluções que integram automação, dados, APIs e inteligência artificial para apoiar processos, otimizar operações e transformar necessidades de negócio em soluções práticas.
+Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning e atualmente estou concluindo minha formação em Full Stack Python.
 
-Ao longo da minha trajetória, atuei no desenvolvimento de projetos envolvendo automação, análise de dados, machine learning, visão computacional e integração de sistemas. Também fui instrutora técnica e mentora de projetos por mais de dois anos, orientando mais de 100 alunos na construção de aplicações utilizando Python, dados e inteligência artificial, experiência que fortaleceu minha capacidade de traduzir conceitos complexos em soluções funcionais.
+Desenvolvo soluções utilizando Python, Inteligência Artificial e tecnologias web para transformar problemas em produtos digitais. Tenho interesse especial pela construção de aplicações que combinam automação, APIs e IA para gerar valor tanto para equipes técnicas quanto para áreas de negócio.
 
-Atualmente, continuo aprofundando meus conhecimentos em Python, análise de dados e aplicações de IA, com foco na construção de soluções escaláveis e orientadas a resultados.
+## Minha abordagem de desenvolvimento
 
+Minha abordagem de desenvolvimento começa pela compreensão do problema e dos objetivos do projeto. A partir desse entendimento, avalio as alternativas disponíveis para definir a solução mais adequada, considerando critérios como simplicidade, escalabilidade, desempenho, manutenibilidade e experiência do usuário.
 
+Combino desenvolvimento Full Stack, automação, integração de APIs e Inteligência Artificial para entregar soluções robustas, eficientes e alinhadas às necessidades do negócio.
+
+# 🚀 Projeto em destaque
+
+## SiteInspector
+
+Plataforma SaaS para auditoria inteligente de websites.
+
+O primeiro módulo disponível, **A11y Inspector**, realiza inspeções automatizadas de acessibilidade, identifica não conformidades com as diretrizes WCAG, gera relatórios técnicos e executivos em PDF e utiliza Inteligência Artificial para transformar resultados técnicos em recomendações estratégicas para o negócio.
+
+**Principais desafios técnicos enfrentados:**
+
+- Arquitetura Full Stack utilizando FastAPI e React.
+- Automação de inspeções com Playwright.
+- Integração de APIs de IA.
+- Geração automatizada de documentos PDF.
+- Arquitetura preparada para expansão modular.
+
+## Competências
+
+- Desenvolvimento Full Stack
+- Desenvolvimento de APIs REST
+- Arquitetura de aplicações
+- AI-Assisted Software Development
+- Integração de LLMs
+- Automação de processos
+- Engenharia de Prompts
+- Desenvolvimento orientado a produtos
+- UX aplicada a aplicações web
+- Geração automatizada de relatórios
+
+## Experiência
+
+Além do desenvolvimento de software, atuei por mais de dois anos como instrutora de programação, orientando alunos na construção de aplicações utilizando Python, ciência de dados e inteligência artificial.
+
+Essa experiência fortaleceu minha comunicação técnica, capacidade de mentoria e habilidade para transformar conceitos complexos em soluções práticas.
 
 ##  Tecnologias:
 
