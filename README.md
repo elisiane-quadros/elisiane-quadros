@@ -1,40 +1,32 @@
 # Olá, eu sou Elisiane Quadros 👋  
-## Desenvolvedora Full Stack Python • Inteligência Artificial Aplicada
+### Desenvolvedora Full Stack Python • Inteligência Artificial Aplicada
 
 Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning.
 
-Desenvolvo aplicações Full Stack utilizando Python, React e Inteligência Artificial para transformar problemas em soluções digitais. Tenho interesse especial por projetos que combinam automação, APIs e IA para gerar valor tanto para equipes técnicas quanto para áreas de negócio.
+Desenvolvo soluções de software orientadas a problemas reais, utilizando Python como principal tecnologia para integrar automação, aplicações web e Inteligência Artificial em produtos que geram valor para usuários e para o negócio.
+
 
 ## Minha abordagem de desenvolvimento
 
 Começo cada projeto pela compreensão do problema e dos objetivos do negócio. A partir desse entendimento, avalio alternativas e escolho as tecnologias mais adequadas considerando simplicidade, escalabilidade, desempenho, manutenibilidade e experiência do usuário.
-Combino desenvolvimento Full Stack, automação, integração de APIs e Inteligência Artificial para construir soluções robustas, eficientes e alinhadas às necessidades do projeto.
+
+Utilizo desenvolvimento Full Stack, automação, integração de APIs e Inteligência Artificial para construir soluções robustas, eficientes e alinhadas às necessidades de cada projeto.
 
 
 # 🚀 Projeto em destaque
 
 ## SiteInspector
 
-Plataforma SaaS para auditoria inteligente de websites.
+**Plataforma SaaS para auditoria inteligente de websites.**
 
-🔗 **[Acesse a demonstração](https://site-inspector-eq.vercel.app/)** — nenhum cadastro necessário.
+Construí o SiteInspector utilizando uma arquitetura Full Stack baseada em Python, FastAPI, React, Playwright e Inteligência Artificial para automatizar auditorias web e transformar resultados técnicos em análises úteis para equipes técnicas e áreas de negócio.
 
-O primeiro módulo disponível, **A11y Inspector**, realiza inspeções automatizadas de acessibilidade, identifica não conformidades com as diretrizes WCAG, gera relatórios técnicos e executivos em PDF e utiliza Inteligência Artificial para transformar resultados técnicos em recomendações estratégicas para o negócio.
+O projeto está em produção e foi concebido com uma arquitetura modular para evoluir como uma plataforma de inspeção de websites. O **A11y Inspector** é o primeiro módulo de uma arquitetura preparada para receber soluções de privacidade, segurança e SEO.
 
-📂 **[Ver repositório completo](https://github.com/elisiane-quadros/SiteInspector)**
+ 🔗 **[Acesse a demonstração](https://site-inspector-eq.vercel.app/)** — nenhum cadastro necessário.
+ 
+ 📂 **[Acesse o Repositório](https://github.com/elisiane-quadros/SiteInspector)**
 
-## Competências
-
-- Desenvolvimento Full Stack
-- Desenvolvimento de APIs REST
-- Arquitetura de aplicações
-- AI-Assisted Software Development
-- Integração de LLMs
-- Automação de processos
-- Engenharia de Prompts
-- Desenvolvimento orientado a produtos
-- UX aplicada a aplicações web
-- Geração automatizada de relatórios
 
 ## Experiência
 
@@ -42,7 +34,7 @@ Além do desenvolvimento de software, atuei por mais de dois anos como instrutor
 
 Essa experiência fortaleceu minha comunicação técnica, capacidade de mentoria e habilidade para transformar conceitos complexos em soluções práticas.
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens
 
