@@ -20,9 +20,11 @@
 
 ## 📌Projeto em destaque 
 
-### 🔍 SiteInspector — Plataforma SaaS para auditoria inteligente de websites.
+### 🔍 A11y Inspector — Módulo da plataforma SiteInspector.
 
-Projetei e desenvolvi o SiteInspector utilizando uma arquitetura Full Stack baseada em Python, FastAPI, React, Playwright e Inteligência Artificial para automatizar auditorias web e transformar resultados técnicos em análises úteis para equipes técnicas e áreas de negócio.
+Desenvolvi o A11y Inspector utilizando uma arquitetura Full Stack baseada em Python, FastAPI, React, Playwright e Inteligência Artificial para automatizar auditorias de acessibilidade em websites.
+
+O **A11y Inspector** é o primeiro módulo disponível da plataforma SiteInspector(em desenvolvimento). Ele realiza inspeções sob demanda de acessibilidade digital com base nas diretrizes WCAG 2.1 e na Lei Brasileira de Inclusão (LBI), combinando automação com navegador headless, parsing de HTML e inteligência artificial para gerar relatórios PDF estratégicos e técnicos.
 
 Algumas decisões de engenharia que orientaram a implementação:
 
@@ -34,8 +36,7 @@ Algumas decisões de engenharia que orientaram a implementação:
 
 — Modelagem de dados com Pydantic e herança de tipos
 
-O SiteInspector já está em produção e foi concebido com uma arquitetura modular para evoluir como uma plataforma de inspeção de websites.<br>
-O **A11y Inspector** é o primeiro módulo de uma arquitetura preparada para receber soluções de privacidade, segurança e SEO.
+O A11y Inspector está em produção e representa o primeiro módulo do SiteInspector, uma arquitetura concebida para evoluir com futuras soluções de inspeção voltadas à privacidade, segurança e SEO.
 
  🔗 **[Acesse a demonstração](https://site-inspector-eq.vercel.app/)**
  
