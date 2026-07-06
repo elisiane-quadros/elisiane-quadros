@@ -69,7 +69,7 @@ O A11y Inspector está em produção e representa o primeiro módulo do SiteInsp
 ---
 ## 💼 Experiência
 
-Antes de dedicar meu foco integral ao desenvolvimento de software, atuei por mais de dois anos como **Instrutora Técnica e Mentora de Projetos | Python • Dados • IA**, orientando alunos na construção de aplicações utilizando Python, ciência de dados e inteligência artificial.
+Minha experiência também inclui mais de dois anos como Instrutora Técnica e Mentora de Projetos em Python, Dados e Inteligência Artificial, período em que acompanhei alunos no desenvolvimento de aplicações e na resolução de desafios técnicos.
 
 Essa experiência fortaleceu minha comunicação técnica, capacidade de mentoria e habilidade para transformar conceitos complexos em soluções práticas.
 
