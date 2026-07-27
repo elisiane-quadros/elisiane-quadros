@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Elisiane Quadros 👋 </h1> 
 <h3 align="center">Desenvolvedora Python | Full Stack | AI Engineer Júnior | LLMs, RAG, LangGraph | FastAPI</h3>
 
-<p align="center">Desenvolvo soluções de software orientadas a problemas reais, utilizando Python como principal tecnologia para integrar automação, aplicações web e Inteligência Artificial.<br>Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning</p>  
+<p align="center">Desenvolvo soluções de software orientadas a problemas reais, utilizando Python como principal tecnologia para integrar automação, aplicações web e Inteligência Artificial.<br>Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning.</p>  
 
 <p align="center">
   <a 
@@ -24,7 +24,7 @@
 
 Desenvolvi o A11y Inspector utilizando uma arquitetura Full Stack baseada em Python, FastAPI, React, Playwright e Inteligência Artificial para automatizar auditorias de acessibilidade em websites.
 
-O **A11y Inspector** é o primeiro módulo disponível da plataforma SiteInspector(em desenvolvimento). Ele realiza inspeções sob demanda de acessibilidade digital com base nas diretrizes WCAG 2.1 e na Lei Brasileira de Inclusão (LBI), combinando automação com navegador headless, parsing de HTML e inteligência artificial para gerar relatórios PDF estratégicos e técnicos.
+O **A11y Inspector** é o primeiro módulo disponível da plataforma SiteInspector (em desenvolvimento). Ele realiza inspeções sob demanda de acessibilidade digital com base nas diretrizes WCAG 2.1 e na Lei Brasileira de Inclusão (LBI), combinando automação com navegador headless, parsing de HTML e inteligência artificial para gerar relatórios PDF estratégicos e técnicos.
 
 Algumas decisões de engenharia que orientaram a implementação:
 
