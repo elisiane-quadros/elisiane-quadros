@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Elisiane Quadros 👋 </h1> 
-<h3 align="center">Desenvolvedora Python | Full Stack | IA, Automação & LLMs | FastAPI</h3>
+<h3 align="center">Desenvolvedora Python | Full Stack | AI Engineer Júnior | LLMs, RAG, LangGraph | FastAPI</h3>
 
-<p align="center">Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning.<br>Desenvolvo soluções de software orientadas a problemas reais, utilizando Python como principal tecnologia para integrar automação, aplicações web e Inteligência Artificial em produtos que geram valor para usuários e para o negócio.</p>  
+<p align="center">Desenvolvo soluções de software orientadas a problemas reais, utilizando Python como principal tecnologia para integrar automação, aplicações web e Inteligência Artificial.<br>Sou graduada em Análise e Desenvolvimento de Sistemas, pós-graduada em Inteligência Artificial com ênfase em Machine Learning</p>  
 
 <p align="center">
   <a 
@@ -30,13 +30,15 @@ Algumas decisões de engenharia que orientaram a implementação:
 
 — Pipeline assíncrono com controle de concorrência e timeout por tarefa
 
-— Sessão única do Playwright para evitar vazamento de recursos
+— Sessão única do Playwright com health-check e relançamento automático
 
 — Classificação determinística de segmento de negócio (e-commerce, SaaS, corporativo) antes de acionar a IA
 
+— Volumetria com fonte única de verdade entre API, relatórios e IA
+
 — Modelagem de dados com Pydantic e herança de tipos
 
-O A11y Inspector está em produção e representa o primeiro módulo do SiteInspector, uma arquitetura concebida para evoluir com futuras soluções de inspeção voltadas à privacidade, segurança e SEO.
+O A11y Inspector é o MVP publicado do SiteInspector — com demo aberta, sem cadastro — e o primeiro módulo de uma arquitetura concebida para evoluir com futuras soluções de inspeção voltadas à privacidade, segurança e SEO.
 
  🔗 **[Acesse a demonstração](https://site-inspector-eq.vercel.app/)**
  
@@ -55,6 +57,8 @@ O A11y Inspector está em produção e representa o primeiro módulo do SiteInsp
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![LLMs](https://img.shields.io/badge/LLMs-0A66C2?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
